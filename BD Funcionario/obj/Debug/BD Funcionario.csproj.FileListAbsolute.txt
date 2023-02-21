@@ -1,0 +1,29 @@
+E:\Etec\2° Ano\DS\BD Funcionario\BD Funcionario\bin\Debug\BD Funcionario.exe.config
+E:\Etec\2° Ano\DS\BD Funcionario\BD Funcionario\bin\Debug\BD Funcionario.exe
+E:\Etec\2° Ano\DS\BD Funcionario\BD Funcionario\bin\Debug\BD Funcionario.pdb
+E:\Etec\2° Ano\DS\BD Funcionario\BD Funcionario\bin\Debug\Google.Protobuf.dll
+E:\Etec\2° Ano\DS\BD Funcionario\BD Funcionario\bin\Debug\BouncyCastle.Crypto.dll
+E:\Etec\2° Ano\DS\BD Funcionario\BD Funcionario\bin\Debug\MySql.Data.xml
+E:\Etec\2° Ano\DS\BD Funcionario\BD Funcionario\obj\Debug\BD_Funcionario.Form1.resources
+E:\Etec\2° Ano\DS\BD Funcionario\BD Funcionario\obj\Debug\BD_Funcionario.Properties.Resources.resources
+E:\Etec\2° Ano\DS\BD Funcionario\BD Funcionario\obj\Debug\BD Funcionario.csproj.GenerateResource.cache
+E:\Etec\2° Ano\DS\BD Funcionario\BD Funcionario\obj\Debug\BD Funcionario.csproj.CoreCompileInputs.cache
+E:\Etec\2° Ano\DS\BD Funcionario\BD Funcionario\obj\Debug\BD Funcionario.csproj.CopyComplete
+E:\Etec\2° Ano\DS\BD Funcionario\BD Funcionario\obj\Debug\BD Funcionario.exe
+E:\Etec\2° Ano\DS\BD Funcionario\BD Funcionario\obj\Debug\BD Funcionario.pdb
+E:\Etec\2° Ano\DS\BD Funcionario\BD Funcionario\bin\Debug\MySql.Data.dll
+E:\Etec\2° Ano\DS\BD Funcionario\BD Funcionario\obj\Debug\BD Funcionario.csprojAssemblyReference.cache
+C:\Users\joilma\Documents\Rhuan\BD Funcionario\BD Funcionario\bin\Debug\BD Funcionario.exe.config
+C:\Users\joilma\Documents\Rhuan\BD Funcionario\BD Funcionario\bin\Debug\BD Funcionario.exe
+C:\Users\joilma\Documents\Rhuan\BD Funcionario\BD Funcionario\bin\Debug\BD Funcionario.pdb
+C:\Users\joilma\Documents\Rhuan\BD Funcionario\BD Funcionario\bin\Debug\Google.Protobuf.dll
+C:\Users\joilma\Documents\Rhuan\BD Funcionario\BD Funcionario\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joilma\Documents\Rhuan\BD Funcionario\BD Funcionario\bin\Debug\MySql.Data.xml
+C:\Users\joilma\Documents\Rhuan\BD Funcionario\BD Funcionario\obj\Debug\BD Funcionario.csproj.AssemblyReference.cache
+C:\Users\joilma\Documents\Rhuan\BD Funcionario\BD Funcionario\obj\Debug\BD_Funcionario.Form1.resources
+C:\Users\joilma\Documents\Rhuan\BD Funcionario\BD Funcionario\obj\Debug\BD_Funcionario.Properties.Resources.resources
+C:\Users\joilma\Documents\Rhuan\BD Funcionario\BD Funcionario\obj\Debug\BD Funcionario.csproj.GenerateResource.cache
+C:\Users\joilma\Documents\Rhuan\BD Funcionario\BD Funcionario\obj\Debug\BD Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\joilma\Documents\Rhuan\BD Funcionario\BD Funcionario\obj\Debug\BD Funcionario.csproj.CopyComplete
+C:\Users\joilma\Documents\Rhuan\BD Funcionario\BD Funcionario\obj\Debug\BD Funcionario.exe
+C:\Users\joilma\Documents\Rhuan\BD Funcionario\BD Funcionario\obj\Debug\BD Funcionario.pdb
